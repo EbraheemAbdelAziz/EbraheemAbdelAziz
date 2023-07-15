@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EbraheemAbdelAziz
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JS framworks
-- 💞️ I’m looking to collaborate on Helwan University in Cairo
+- 🌱 I’m currently learning React js
 - 📫 How to reach me my email -> ebraheemzezo011@gmial.com
 - 🆃🅴🅰🅼 🅶🅰🅼🅴🅳
 
