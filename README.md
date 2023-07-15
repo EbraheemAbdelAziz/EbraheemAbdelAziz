@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning React js
 - 📫 How to reach me my email -> ebraheemzezo011@gmial.com
+- 📣 This is my Linkedin account -> https://www.upwork.com/freelancers/~015d3d265bd46daeb3
 - 🆃🅴🅰🅼 🅶🅰🅼🅴🅳
 
 <!---
