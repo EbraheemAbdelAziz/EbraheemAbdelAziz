@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EbraheemAbdelAziz
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning React js
-- 📫 How to reach me my email -> ebraheemzezo011@gmial.com
-- 📣 This is my Linkedin account -> https://www.linkedin.com/in/ibrahim-abdel-aziz-363a8b235/
+- 📫 Email -> ebraheemzezo011@gmial.com
+- 📣 Linkedin account -> https://www.linkedin.com/in/ibrahim-abdel-aziz-363a8b235/
 - 🆃🅴🅰🅼 🅶🅰🅼🅴🅳
 
 <!---
