@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EbraheemAbdelAziz
+- 👋 Hi, I’m Ebraheem Abdelaziz
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning React js
 - 📫 Email -> ebraheemzezo011@gmial.com
